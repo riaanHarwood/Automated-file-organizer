@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/7ab9a06e-1268-4d2a-afb5-8be95c893853" />
 
 
