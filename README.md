@@ -23,3 +23,7 @@ python3 organizer.py
 - Logging
 - Duplicate detection
 - Scheduled automation
+
+## How to Run
+```bash
+python3 organizer.py
