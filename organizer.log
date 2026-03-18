@@ -1,0 +1,5 @@
+This stores all the logs for when the organizer is running. 
+It can be used for debugging and troubleshooting purposes. 
+Each entry in the log will typically include a timestamp, the level of the log (e.g., INFO, WARNING, ERROR), 
+and a message describing the event or action that occurred. The log canbe helpful for developers to track the flow of 
+the application, identify any issues, and understand how theorganizer is performing over time. 
