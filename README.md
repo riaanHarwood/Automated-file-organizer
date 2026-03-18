@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0259b9f2-169a-461a-a366-b670eb472595" />
+<img width="880" height="880" alt="image" src="https://github.com/user-attachments/assets/7ab9a06e-1268-4d2a-afb5-8be95c893853" />
 
 
 # Automated-file-organizer
