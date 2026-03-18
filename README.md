@@ -1,3 +1,6 @@
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0259b9f2-169a-461a-a366-b670eb472595" />
+
+
 # Automated-file-organizer
 A lightweight, simple Python script designed to automatically organise files into folders based on file type. This is my first automation project
 
