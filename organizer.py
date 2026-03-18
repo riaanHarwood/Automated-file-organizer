@@ -1,5 +1,6 @@
 from pathlib import Path
 import shutil
+import logging
 
 # Target folder
 # Note: Change this to the folder you want to organize on your machine. 
@@ -26,6 +27,13 @@ def organize_files():
 
                     shutil.move(str(file), str(target_dir / file.name))
                     print(f"Moved {file.name} → {folder}")
+
+logging.basicConfig(
+    filename="organizer.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(message)s"
+)
+
 
 if __name__ == "__main__":
     organize_files()
